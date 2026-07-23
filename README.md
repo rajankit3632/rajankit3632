@@ -225,7 +225,8 @@ DSA | AI | Cloud Computing
 
 <div align="center">
 
-# ☕ Support My Work
+If you like my projects, consider giving them a ⭐ on GitHub!
+
 
 <a href="https://github.com/rajankit3632">
 <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repositories-8B5CF6?style=for-the-badge"/>
