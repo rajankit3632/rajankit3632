@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,13,14&text=Welcome%20to%20My%20GitHub&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20•%20Create%20•%20Innovate&descAlignY=60">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,13,14&text=Welcome%20to%20My%20GitHub&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20•%20Create%20•%20Innovate&descAlignY=60" alt="Banner">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=gradient&customColorList=12,13,14&animation=twinkling"/>
 
 <br>
 
@@ -25,71 +22,27 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-```cpp
-class AnkitRaj {
+```bash
+> who am i
+Ankit Raj
 
-public:
+> education
+B.Tech CSE
 
-string education="B.Tech CSE";
+> role
+Full Stack Developer
 
-string interests[]={
-"Full Stack",
-"Artificial Intelligence",
-"Cloud Computing",
-"Open Source",
-"Competitive Programming"
-};
+> currently-learning
+DSA | AI | Cloud Computing
 
-string currentlyLearning[]={
-"Data Structures",
-"Algorithms",
-"System Design",
-"DevOps"
-};
-
-};
+> goal
+Become a Software Engineer
 ```
 
-- 🎓 B.Tech Computer Science Student
 
-- 💻 Passionate Full Stack Developer
-
-- 🤖 Exploring AI & Machine Learning
-
-- ☁️ Learning Cloud Computing
-
-- 🌱 Open Source Enthusiast
-
-- 🚀 Building Real World Projects
-
-- 📚 Solving DSA every day
-
-- 🎯 Goal: Software Engineer
 
 ---
 
-# 🚀 Current Focus
-
-```text
-🌱 Learning:
-   • React
-   • Node.js
-   • Next.js
-   • Docker
-   • AWS
-
-🚀 2026 Goals
-
-✅ 500+ LeetCode Problems
-
-✅ Contribute to Open Source
-
-✅ Build SaaS Projects
-
-✅ Crack Software Engineering Internship
-```
-
----
 
 # 🛠 Tech Stack
 
@@ -127,19 +80,7 @@ string currentlyLearning[]={
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajankit3632&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4"/>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajankit3632&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=A78BFA"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajankit3632&layout=compact&theme=transparent&title_color=8B5CF6&text_color=A78BFA"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajankit3632&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4" />
 
 </div>
 
@@ -165,27 +106,6 @@ string currentlyLearning[]={
 
 ---
 
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/8B5CF6/rajankit3632" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Project | Coming Soon |
-| 🌐 Portfolio | Coming Soon |
-| 💻 Full Stack App | Coming Soon |
-| ☁️ Cloud Project | Coming Soon |
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -205,26 +125,51 @@ string currentlyLearning[]={
 
 # 💻 Competitive Programming
 
+## 💻 LeetCode
+
 <div align="center">
 
-<a href="https://leetcode.com/u/ankit_raj_ar/">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=heatmap"/>
+| Solved | Rank | Profile |
+|--------:|-----:|---------|
+| **0** | **~5,000,000** | [Visit Profile](https://leetcode.com/u/ankit_raj_ar/) |
 
-</a>
+<img src="https://img.shields.io/badge/Easy-0-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medium-0-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hard-0-red?style=for-the-badge"/>
+
+
 
 <br><br>
 
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
-<img src="https://img.shields.io/badge/Codeforces-Profile-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white"/>
+## 🍛 CodeChef
 
-</a>
+<div align="center">
+
+| Rating | Stars | Profile |
+|--------:|------:|---------|
+| **Unrated** | **⭐0** | [Visit Profile](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME) |
+
+<img src="https://img.shields.io/badge/Rating-Unrated-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-0⭐-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/Contests-0-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+</div>
+
+---
 
 &nbsp;
 
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+## 💚 HackerRank
 
-</a>
+<div align="center">
+
+| Badges | Stars | Profile |
+|--------:|------:|---------|
+| **0** | **0⭐** | [Visit Profile](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME) |
+
+<img src="https://img.shields.io/badge/C-Not%20Started-2EC866?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-Not%20Started-2EC866?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-Not%20Started-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
 </div>
 
@@ -246,34 +191,6 @@ string currentlyLearning[]={
 
 ---
 
-# 🌱 Currently Learning
-
-<div align="center">
-
-| 🚀 Learning | 📅 Status |
-|-------------|----------|
-| Data Structures & Algorithms | 🟣 In Progress |
-| React.js | 🟣 In Progress |
-| Node.js | 🟣 In Progress |
-| Docker | 🟡 Planned |
-| AWS Cloud | 🟡 Planned |
-| DevOps | 🔵 Upcoming |
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Solve **500+ LeetCode** problems
-- ✅ Build **10+ Full Stack Projects**
-- ✅ Contribute to **Open Source**
-- ✅ Learn **AWS & Docker**
-- ✅ Participate in **Hackathons**
-- ✅ Crack a **Software Engineering Internship**
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -282,25 +199,17 @@ string currentlyLearning[]={
 <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
-
 <a href="https://x.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/X-8B5CF6?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="https://instagram.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-&nbsp;
-
 <a href="https://youtube.com/@YOUR_USERNAME">
 <img src="https://img.shields.io/badge/YouTube-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="mailto:your.email@example.com">
 <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
