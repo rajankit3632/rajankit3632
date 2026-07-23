@@ -29,14 +29,9 @@ Ankit Raj
 > education
 B.Tech CSE
 
-> role
-Full Stack Developer
-
-> currently-learning
 DSA | AI | Cloud Computing
 
-> goal
-Become a Software Engineer
+
 ```
 
 
@@ -44,33 +39,83 @@ Become a Software Engineer
 ---
 
 
-# 🛠 Tech Stack
+# 🐍 Contribution Snake
 
 <div align="center">
 
-### Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake.svg">
+</picture>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript"/>
+</div>
 
-### Frontend
+---
+
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/rajankit3632/TinyBrut">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajankit3632&repo=TinyBrut&theme=transparent&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/rajankit3632/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajankit3632&repo=Portfolio&theme=transparent&hide_border=true"/>
+
+</a>
+
+---
+
+# 🛠 Tech Stack
+
+<table align="center">
+
+<tr>
+<td align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts"/>
+
+</td>
+
+<td align="center">
+
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
 
-### Backend
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-### Database
+</td>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase"/>
+<td align="center">
 
-### Cloud & DevOps
+### ☁️ Cloud
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github"/>
 
-### Tools
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
+</table>
+
+
 
 </div>
 
@@ -106,73 +151,30 @@ Become a Software Engineer
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 # 💻 Competitive Programming
-
-## 💻 LeetCode
-
 <div align="center">
 
-| Solved | Rank | Profile |
-|--------:|-----:|---------|
-| **0** | **~5,000,000** | [Visit Profile](https://leetcode.com/u/ankit_raj_ar/) |
+<a href="https://leetcode.com/u/ankit_raj_ar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Easy-0-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Medium-0-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hard-0-red?style=for-the-badge"/>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
+<a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-<br><br>
-
-## 🍛 CodeChef
-
-<div align="center">
-
-| Rating | Stars | Profile |
-|--------:|------:|---------|
-| **Unrated** | **⭐0** | [Visit Profile](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME) |
-
-<img src="https://img.shields.io/badge/Rating-Unrated-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-0⭐-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-<img src="https://img.shields.io/badge/Contests-0-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
 </div>
-
----
-
-&nbsp;
-
-## 💚 HackerRank
-
-<div align="center">
-
-| Badges | Stars | Profile |
-|--------:|------:|---------|
-| **0** | **0⭐** | [Visit Profile](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME) |
-
-<img src="https://img.shields.io/badge/C-Not%20Started-2EC866?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-Not%20Started-2EC866?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-Not%20Started-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
-</div>
-
 ---
 
 # 📊 Developer Metrics
@@ -223,7 +225,7 @@ Become a Software Engineer
 
 <div align="center">
 
-If you like my projects, consider giving them a ⭐ on GitHub!
+# ☕ Support My Work
 
 <a href="https://github.com/rajankit3632">
 <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repositories-8B5CF6?style=for-the-badge"/>
@@ -241,3 +243,8 @@ If you like my projects, consider giving them a ⭐ on GitHub!
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=12,13,14&animation=twinkling"/>
 
 </div>
+
+
+
+
+
