@@ -178,3 +178,24 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,13,14&animation=twinkling"/>
 
 </div>
+
+
+
+
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
