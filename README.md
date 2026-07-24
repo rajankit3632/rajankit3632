@@ -34,29 +34,6 @@ DSA | AI | Cloud Computing
 
 ```
 
-
-
----
-
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-
 # 🚀 Featured Projects
 
 <div align="center">
@@ -72,6 +49,8 @@ DSA | AI | Cloud Computing
 </a>
 
 ---
+
+
 
 # 🛠 Tech Stack
 
@@ -130,7 +109,16 @@ DSA | AI | Cloud Computing
 </div>
 
 ---
+# 📊 GitHub Statistics
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajankit3632&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajankit3632&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -151,8 +139,21 @@ DSA | AI | Cloud Computing
 
 ---
 
-
 ---
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/rajankit3632/rajankit3632/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
@@ -180,6 +181,7 @@ DSA | AI | Cloud Computing
 </a>
 
 </div>
+
 ---
 
 # 📊 Developer Metrics
