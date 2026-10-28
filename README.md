@@ -1,28 +1,18 @@
+
 <div align="center">
-  <img src="./images/student-studying.gif" width="100%" alt="Student studying">
+
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 </div>
 
----
-
-
-
-
-
 <div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:4338CA&height=220&section=header&text=ANKIT%20RAJ&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Product%20Builder&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Ankit Raj — Software Engineer Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Reliable+Software+Systems;Exploring+Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Development+%7C+Product+Engineering;Data+Structures+%26+Algorithms+%7C+System+Design;Turning+Ideas+Into+Useful+Products" alt="Typing SVG"/>
 
-<br/>
 
-[![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE-312E81?style=for-the-badge&logo=academia&logoColor=white)](https://www.jisuniversity.ac.in/)
-[![JIS University](https://img.shields.io/badge/JIS_University-Student-4338CA?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.jisuniversity.ac.in/)
-[![Graduation](https://img.shields.io/badge/Graduation-2029-5B21B6?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/rajankit3632)
-
-<br/>
-
-[![Location](https://img.shields.io/badge/Location-West_Bengal%2C_India-3730A3?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/West+Bengal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/rajankit3632?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Profile_Link-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-Contact-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitraj@example.com)
@@ -93,19 +83,6 @@ I enjoy turning ideas into useful software, learning how systems work end to end
 
 ---
 
-## AI & Machine Learning
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Machine Learning Fundamentals | Learning | Understanding supervised learning, model evaluation, and predictive modeling. |
-| Applied AI | Learning | Exploring practical AI integrations and intelligent application workflows. |
-| Random Forest | Project Experience | Applying Random Forest concepts to temporal acoustic prediction in the SilentSpot project. |
-| Data Processing | Learning | Developing foundational skills in preparing and working with structured data. |
-| AI-Assisted Development | Exploring | Using AI tools to accelerate prototyping, debugging, and development workflows. |
-| Model Evaluation | Learning | Exploring prediction quality, evaluation metrics, and reliability considerations. |
-| AI Product Engineering | Project Experience | Connecting AI capabilities with application interfaces, backend logic, and real-world use cases. |
-
----
 
 ## Featured Projects
 
@@ -408,42 +385,6 @@ The links below are official learning platforms and resources, not claims of com
 
 ---
 
-## Current Focus
-
-```yaml
-learning:
-  - C++ and Data Structures & Algorithms
-  - Advanced problem-solving techniques
-  - Java fundamentals and object-oriented programming
-  - Full-stack web development
-  - SQL and database fundamentals
-  - Artificial Intelligence and Machine Learning
-
-building:
-  - AssessGen: assessment generation platform
-  - Study Buddy: academic productivity platform
-  - SilentSpot: workation tourism intelligence
-  - Practical software engineering projects
-
-exploring:
-  - Backend engineering
-  - REST API design
-  - Database architecture
-  - Distributed systems fundamentals
-  - Microservices and Apache Kafka
-  - AI-powered product engineering
-  - Cloud deployment and DevOps fundamentals
-
-open_to:
-  - Software engineering internships
-  - SDE opportunities
-  - AI/ML project collaborations
-  - Full-stack development projects
-  - Open-source contributions
-  - Hackathons and technical communities
-```
-
----
 
 ## Connect With Me
 
@@ -461,8 +402,8 @@ Let's connect to discuss software engineering, AI-powered applications, product 
 </div>
 
 ---
-
-## Thanks for Visiting
+<div align="center">
+  Thanks for Visiting
 
 <div align="center">
 
